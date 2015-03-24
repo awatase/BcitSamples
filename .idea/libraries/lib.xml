@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://C:/Downloads/workspace/lab8/lib/miglayout15-swing.jar!/" />
+      <root url="jar://C:/Downloads/workspace/lab8/lib/derby.jar!/" />
+      <root url="jar://C:/Downloads/workspace/lab8/lib/log4j-1.2.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

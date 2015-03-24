@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lab7">
+    <CLASSES>
+      <root url="jar://C:/Downloads/workspace/lab7/miglayout-src.zip!/" />
+      <root url="jar://C:/Downloads/workspace/lab7/miglayout15-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
